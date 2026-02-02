@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Files with sensitive information
+hw/hw2/clustered_prompts_no_top_prompts.csv
